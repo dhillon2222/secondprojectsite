@@ -11,7 +11,7 @@ const Home = () => {
       <img src="https://source.unsplash.com/random/2000x600/?Burgers" alt="..." />
     </div>
     <div className="carousel-item"> 
-    <img src="https://source.unsplash.com/random/2000x600/?Pizza" alt="..." />    </div>
+    <img src="https://source.unsplash.com/random/2000x600/?Coffee" alt="..." />    </div>
     <div className="carousel-item">
     <img src="https://source.unsplash.com/random/2000x600/?Cake" alt="..." />    </div>
   </div>
