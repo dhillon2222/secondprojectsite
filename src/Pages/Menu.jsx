@@ -1,5 +1,5 @@
 import React from 'react'
-import { Header,Footer } from '../components/index'
+import { Header,Footer } from '../Components'
 
 
 const Menu = () => {
